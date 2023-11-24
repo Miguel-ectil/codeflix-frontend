@@ -13,7 +13,8 @@
     "@testing-library/react": "^14.1.2",
     "next": "14.0.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
     "@types/jest": "^29.5.10",
