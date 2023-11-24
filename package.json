@@ -10,6 +10,7 @@
     "test": "jest --watch"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.18",
     "@testing-library/react": "^14.1.2",
     "next": "14.0.3",
     "react": "^18",
